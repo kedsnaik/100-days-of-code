@@ -17,6 +17,7 @@
 ### Day 3: November 16, 2019
 
 **Today's Progress**: Added animated image on front page, implemented an amazing pen for background effects - vanta.js
+
 **Link to work:** [Portfolio Website](https://github.com/kedsnaik/MyPortfolio)
 
 
